@@ -5,7 +5,7 @@
     "category": "Handgun Ammo",
     "caliber": "9x19mm",
     "manufacturer": "Acme Ammunition Co.",
-    "price": 121,000 ,
+    "price": 12100.00 ,
     "currency": "BDT",
     "stock_quantity": 120,
     "rounds_per_box": 50,
@@ -14,7 +14,7 @@
     "min_age": 21,
     "image_url": "https://imgs.search.brave.com/oVCAi5C-fPoKF2LEVM2UcsCUHY7vCsvzqbHMdOEgxRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxOC8x/Mi8xOC8xMy8xMS9i/ZXJldHRhLTM4ODIz/MzhfNjQwLmpwZw",
     "description": "Full metal jacket rounds for range practice and training.",
-    "notes": ""
+    "notes": "restricted sales permit required"
   },
   {
     "id": 2,
@@ -22,7 +22,7 @@
     "category": "siniper ammo",
     "caliber": ".45 ACP",
     "manufacturer": "Eastfield Ordnance",
-    "price": 109,600,
+    "price": 1096.00,
     "currency": "BDT",
     "stock_quantity": 60,
     "rounds_per_box": 50,
@@ -39,7 +39,7 @@
     "category": "Rifle Ammo",
     "caliber": ".223 Rem (5.56x45mm)",
     "manufacturer": "Valley Arms",
-    "price": 475,000,
+    "price": 4750.00,
     "currency": "BDT",
     "stock_quantity": 200,
     "rounds_per_box": 30,
