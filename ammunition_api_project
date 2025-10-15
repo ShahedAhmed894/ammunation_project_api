@@ -46,7 +46,7 @@
     "weight_g_per_round": 3.6,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://example.com/images/223_fmj.jpg",
+    "image_url": "https://cdn.imgbin.com/25/2/25/imgbin-ak-47-7-62-39mm-firearm-akm-wasr-series-rifles-ak-47-bnPP87tmUv3Usi8xTebKfNPDg.jpg",
     "description": "Standard full metal jacket for training and target shooting.",
     "notes": ""
   },
@@ -63,7 +63,7 @@
     "weight_g_per_round": 11.5,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://example.com/images/308_sp.jpg",
+    "image_url": "https://cdn.imgbin.com/20/19/5/imgbin-imi-micro-uzi-submachine-gun-mac-11-mac-10-uzi-emVCUW9Egb8dyV6mp5kCHBiK7.jpg",
     "description": "Soft point hunting rounds with good expansion.",
     "notes": "Not for indoor ranges."
   },
@@ -80,7 +80,7 @@
     "weight_g_per_round": 9.5,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://example.com/images/380_fmj.jpg",
+    "image_url": "https://cdn.imgbin.com/20/23/22/imgbin-338-lapua-magnum-longest-recorded-sniper-kills-accuracy-international-awm-sniper-rifle-sniper-rifle-5b3UxiTVgKv285pGkGtHFupN9.jpg",
     "description": "Low-recoil FMJ for compact pistols and training.",
     "notes": ""
   },
@@ -97,7 +97,7 @@
     "weight_g_per_round": 16.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://example.com/images/762x39.jpg",
+    "image_url": "https://cdn.imgbin.com/13/15/5/imgbin-fn-scar-fn-herstal-assault-rifle-heckler-koch-xm8-assault-rifle-Xc9G9sCFqZyxN5EJkgaXxsrCM.jpg",
     "description": "Reliable FMJ rounds for sport shooting.",
     "notes": ""
   },
@@ -114,7 +114,7 @@
     "weight_g_per_round": 2.6,
     "license_required": false,
     "min_age": 18,
-    "image_url": "https://example.com/images/22lr_std.jpg",
+    "image_url": "https://cdn.imgbin.com/10/9/23/machine-gun-cartoon-style-assault-rifle-illustration-npCADjDp.jpg",
     "description": "Economy .22 Long Rifle for practice and plinking.",
     "notes": "Often sold in larger bulk boxes."
   },
@@ -131,7 +131,7 @@
     "weight_g_per_round": 18.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://example.com/images/357_jhp.jpg",
+    "image_url": "https://cdn.imgbin.com/2/9/18/revolver-gun-classic-vintage-revolver-with-wooden-grip-dtM591qm.jpg",
     "description": "High-energy jacketed hollow point for hunting or defense.",
     "notes": ""
   },
@@ -148,7 +148,7 @@
     "weight_g_per_round": 16.5,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://example.com/images/10mm_fmj.jpg",
+    "image_url": "https://cdn.imgbin.com/24/3/8/imgbin-mp-40-german-sport-guns-gmbh-submachine-gun-firearm-9mm-p-a-k-weapon-rxAheEJd2SrrSieLMUPWv1z2X.jpg",
     "description": "Full power 10mm rounds for hard-hitting performance.",
     "notes": ""
   },
@@ -165,7 +165,7 @@
     "weight_g_per_round": 16.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://example.com/images/300blk_sub.jpg",
+    "image_url": "https://cdn.imgbin.com/24/0/12/imgbin-m4-carbine-assault-rifle-m16-rifle-m16a2-m-yuEMKQLgHA2uknNHVtxyNMncR.jpg",
     "description": "Subsonic loads optimized for suppressed rifles.",
     "notes": "Local regulations may apply."
   },
@@ -182,7 +182,7 @@
     "weight_g_per_round": 32.0,
     "license_required": true,
     "min_age": 18,
-    "image_url": "https://example.com/images/12g_275.jpg",
+    "image_url": "https://cdn.imgbin.com/0/20/18/imgbin-machine-gun-machine-pistol-automatic-firearm-weapon-machine-gun-svWynZiM4NXHXe8nrMryKhKTZ.jpg",
     "description": "Lead shot shells for clay target and small game.",
     "notes": "Check local lead shot restrictions."
   },
@@ -199,7 +199,7 @@
     "weight_g_per_round": 26.0,
     "license_required": true,
     "min_age": 18,
-    "image_url": "https://example.com/images/20g_275.jpg",
+    "image_url": "https://cdn.imgbin.com/4/19/14/imgbin-kord-machine-gun-heavy-machine-gun-nsv-machine-gun-rpk-machine-gun-4cEqc9Wpx5DqkYeBuAfNFZbVM.jpg",
     "description": "Light-recoil shells for hunting and sport shooting.",
     "notes": ""
   },
@@ -216,7 +216,7 @@
     "weight_g_per_round": 4.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://example.com/images/223_hpbt.jpg",
+    "image_url": "https://cdn.imgbin.com/8/13/19/imgbin-firearm-machine-gun-bullet-machine-gun-black-assault-rifle-0icix2nNJ43w5j7tfCN4HMmPK.jpg",
     "description": "Hollow point boat tail for varminting and precision shooting.",
     "notes": ""
   },
@@ -233,7 +233,7 @@
     "weight_g_per_round": 3.9,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://example.com/images/57x28.jpg",
+    "image_url": "https://cdn.imgbin.com/8/15/6/imgbin-assault-rifle-dragunov-svd-63-sniper-rifle-sniper-ghost-warrior-3-assault-rifle-qvnunym1ngHeS7Uwf7DheSVtC.jpg",
     "description": "High-velocity small-caliber rounds for specialized platforms.",
     "notes": ""
   },
@@ -250,7 +250,7 @@
     "weight_g_per_round": 19.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://example.com/images/45acp_leadfree.jpg",
+    "image_url": "https://cdn.imgbin.com/4/12/9/imgbin-rifle-s-t-a-l-k-e-r-shadow-of-chernobyl-firearm-vss-vintorez-weapon-weapon-TsaUfsQg7QjwuXn4dscgNLbN9.jpg",
     "description": "Lead-free training rounds for indoor ranges with environmental controls.",
     "notes": "Preferred where lead restrictions apply."
   }
