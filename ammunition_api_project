@@ -137,7 +137,7 @@
   },
   {
     "id": 9,
-    "name": "Urban 10mm Auto FMJ",
+    "name": "As 50",
     "category": "Handgun Ammo",
     "caliber": "10mm Auto",
     "manufacturer": "Northbridge Ammunition",
@@ -148,13 +148,13 @@
     "weight_g_per_round": 16.5,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://cdn.imgbin.com/24/3/8/imgbin-mp-40-german-sport-guns-gmbh-submachine-gun-firearm-9mm-p-a-k-weapon-rxAheEJd2SrrSieLMUPWv1z2X.jpg",
+    "image_url": "https://imgs.search.brave.com/sRpcn-6fBF5PmRwvgs8uDdZTsaa0b1fJd10ukBbG83o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW50ZXJlc3Rp/bmdlbmdpbmVlcmlu/Zy5jb20vaW1nL2ll/YS9vMkd6UjRwQUdw/L2Jlc3QtcmlmbGVz/LWFzNTAuanBn",
     "description": "Full power 10mm rounds for hard-hitting performance.",
     "notes": ""
   },
   {
     "id": 10,
-    "name": "Silent .300 Blackout Subsonic",
+    "name": "Swd m11a1",
     "category": "Rifle Ammo",
     "caliber": ".300 Blackout (subsonic)",
     "manufacturer": "StealthWorks",
@@ -165,13 +165,13 @@
     "weight_g_per_round": 16.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://cdn.imgbin.com/24/0/12/imgbin-m4-carbine-assault-rifle-m16-rifle-m16a2-m-yuEMKQLgHA2uknNHVtxyNMncR.jpg",
+    "image_url": "https://imgs.search.brave.com/uQ_rubXnTO9q7G3Scv3gtpdbpT2l4QUrjML5KzA9VVM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cm9ja2lzbGFuZGF1/Y3Rpb24uY29tL2do/b3N0LzIwMjUvMDEv/c3dkLW0xMWExLW1h/Y2hpbmUtZ3VuLXdp/dGgtc2lsZW5jZXIu/anBn",
     "description": "Subsonic loads optimized for suppressed rifles.",
     "notes": "Local regulations may apply."
   },
   {
     "id": 11,
-    "name": "HuntShot 12 Gauge 2.75\"",
+    "name": "Glock 19"",
     "category": "Shotgun Shell",
     "caliber": "12 Gauge",
     "manufacturer": "Northfield Shots",
@@ -182,13 +182,13 @@
     "weight_g_per_round": 32.0,
     "license_required": true,
     "min_age": 18,
-    "image_url": "https://cdn.imgbin.com/0/20/18/imgbin-machine-gun-machine-pistol-automatic-firearm-weapon-machine-gun-svWynZiM4NXHXe8nrMryKhKTZ.jpg",
+    "image_url": "https://imgs.search.brave.com/JbS7D8s--YGckI4ZfyYRGWUYGMlA40YfJZqd9vbaRQ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZ2xv/Y2stMTktcGljdHVy/ZXMtMjU2MC14LTE5/MjAtY2UzeGNxd3Mz/OWNmbjZmYi5qcGc",
     "description": "Lead shot shells for clay target and small game.",
     "notes": "Check local lead shot restrictions."
   },
   {
     "id": 12,
-    "name": "Field 20 Gauge 2.75\"",
+    "name": "M16"",
     "category": "Shotgun Shell",
     "caliber": "20 Gauge",
     "manufacturer": "FieldWorks",
@@ -199,13 +199,13 @@
     "weight_g_per_round": 26.0,
     "license_required": true,
     "min_age": 18,
-    "image_url": "https://cdn.imgbin.com/4/19/14/imgbin-kord-machine-gun-heavy-machine-gun-nsv-machine-gun-rpk-machine-gun-4cEqc9Wpx5DqkYeBuAfNFZbVM.jpg",
+    "image_url": "https://imgs.search.brave.com/o3Ga9-st_wRyGu7FUBl0acNHBnEQY6kw73QPaPEW9PY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQ1/MDkxNDAwL3Bob3Rv/L2M4LWNhcmJpbmUu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PXZuc1Rxd3pvYjJ2/eGVpV2Q5REExOUli/ek9acnktcW9wMVVR/MkFyTXFzTTQ9",
     "description": "Light-recoil shells for hunting and sport shooting.",
     "notes": ""
   },
   {
     "id": 13,
-    "name": "Varmint .223 HPBT",
+    "name": "Mp5",
     "category": "Rifle Ammo",
     "caliber": ".223 Rem",
     "manufacturer": "Prairie Ballistics",
@@ -216,13 +216,13 @@
     "weight_g_per_round": 4.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://cdn.imgbin.com/8/13/19/imgbin-firearm-machine-gun-bullet-machine-gun-black-assault-rifle-0icix2nNJ43w5j7tfCN4HMmPK.jpg",
+    "image_url": "https://imgs.search.brave.com/yGltLmB4g4-XQX4sL_fipfQPbJF12zQcoI2YttN3mdI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQ1/MDkxNDk2L3Bob3Rv/L3N1Ym1hY2hpbmUt/Z3VuLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1wZjJtdEVY/RmRZekhycUwzTE1h/VGNxTVRFODNFNFJw/bnJLTlJROHhYQUtZ/PQ",
     "description": "Hollow point boat tail for varminting and precision shooting.",
     "notes": ""
   },
   {
     "id": 14,
-    "name": "Compact 5.7x28 FMJ",
+    "name": "Colt m4",
     "category": "Handgun/Rifle Ammo",
     "caliber": "5.7x28mm",
     "manufacturer": "Vector Munitions",
@@ -233,13 +233,13 @@
     "weight_g_per_round": 3.9,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://cdn.imgbin.com/8/15/6/imgbin-assault-rifle-dragunov-svd-63-sniper-rifle-sniper-ghost-warrior-3-assault-rifle-qvnunym1ngHeS7Uwf7DheSVtC.jpg",
+    "image_url": "https://imgs.search.brave.com/msDsKluKEY20ddWVdxbWwDJyLCsgZ0ggMtaYlIWcUy0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZ3Vucy5jb20v/cHJvZC8yMDI1LzAy/LzEzLzY3YWU1NzQ0/YjQ1M2Y2Y2FiZjAy/ZDhiY2M5OTljNjRj/ODY2N2M2OTQ3ZjVh/NC5qcGc",
     "description": "High-velocity small-caliber rounds for specialized platforms.",
     "notes": ""
   },
   {
     "id": 15,
-    "name": "LeadFree .45 ACP Training",
+    "name": "Vss",
     "category": "Handgun Ammo",
     "caliber": ".45 ACP (lead-free)",
     "manufacturer": "EcoBallistics",
@@ -250,7 +250,7 @@
     "weight_g_per_round": 19.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://cdn.imgbin.com/4/12/9/imgbin-rifle-s-t-a-l-k-e-r-shadow-of-chernobyl-firearm-vss-vintorez-weapon-weapon-TsaUfsQg7QjwuXn4dscgNLbN9.jpg",
+    "image_url": "https://imgs.search.brave.com/G7qrMOyALMUWEYlhwAGD2CrDGMqwMMz3TfRZenXL-hY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/ZmFzdGx5LnRoZWZp/cmVhcm1ibG9nLmNv/bS9tZWRpYS8yMDI0/LzA1LzE5LzE0NTg0/NzIwL2NpdmlsaWFu/LXZzcy12aW50b3Jl/ei1jbG9uZXMtaW4t/cnVzc2lhLWFybXMt/aHVudGluZy0yMDE4/LmpwZz9zaXplPTcy/MHg4NDUmbm9jcm9w/PTE",
     "description": "Lead-free training rounds for indoor ranges with environmental controls.",
     "notes": "Preferred where lead restrictions apply."
   }
