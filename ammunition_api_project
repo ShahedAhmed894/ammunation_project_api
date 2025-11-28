@@ -148,7 +148,7 @@
     "weight_g_per_round": 16.5,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/sRpcn-6fBF5PmRwvgs8uDdZTsaa0b1fJd10ukBbG83o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW50ZXJlc3Rp/bmdlbmdpbmVlcmlu/Zy5jb20vaW1nL2ll/YS9vMkd6UjRwQUdw/L2Jlc3QtcmlmbGVz/LWFzNTAuanBn",
+    "image_url": "",
     "description": "Full power 10mm rounds for hard-hitting performance.",
     "notes": ""
   },
@@ -165,7 +165,7 @@
     "weight_g_per_round": 16.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/uQ_rubXnTO9q7G3Scv3gtpdbpT2l4QUrjML5KzA9VVM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cm9ja2lzbGFuZGF1/Y3Rpb24uY29tL2do/b3N0LzIwMjUvMDEv/c3dkLW0xMWExLW1h/Y2hpbmUtZ3VuLXdp/dGgtc2lsZW5jZXIu/anBn",
+    "image_url": "",
     "description": "Subsonic loads optimized for suppressed rifles.",
     "notes": "Local regulations may apply."
   },
@@ -182,7 +182,7 @@
     "weight_g_per_round": 32.0,
     "license_required": true,
     "min_age": 18,
-    "image_url": "https://imgs.search.brave.com/JbS7D8s--YGckI4ZfyYRGWUYGMlA40YfJZqd9vbaRQ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZ2xv/Y2stMTktcGljdHVy/ZXMtMjU2MC14LTE5/MjAtY2UzeGNxd3Mz/OWNmbjZmYi5qcGc",
+    "image_url": "",
     "description": "Lead shot shells for clay target and small game.",
     "notes": "Check local lead shot restrictions."
   },
@@ -199,7 +199,7 @@
     "weight_g_per_round": 26.0,
     "license_required": true,
     "min_age": 18,
-    "image_url": "https://imgs.search.brave.com/o3Ga9-st_wRyGu7FUBl0acNHBnEQY6kw73QPaPEW9PY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQ1/MDkxNDAwL3Bob3Rv/L2M4LWNhcmJpbmUu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PXZuc1Rxd3pvYjJ2/eGVpV2Q5REExOUli/ek9acnktcW9wMVVR/MkFyTXFzTTQ9",
+    "image_url": "",
     "description": "Light-recoil shells for hunting and sport shooting.",
     "notes": ""
   },
