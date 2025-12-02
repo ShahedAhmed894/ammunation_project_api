@@ -120,7 +120,7 @@
   },
   {
     "id": 8,
-    "name": "Magnum .357 Mag JHP",
+    "name": "Desert Eagle",
     "category": "Handgun Ammo",
     "caliber": ".357 Magnum",
     "manufacturer": "Harbor Munitions",
@@ -131,7 +131,7 @@
     "weight_g_per_round": 18.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/IUMK44zQQGongdxHzokDkXOM8wXkMdlbdScON3Nksbg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3BvcnRzbWFucy5j/b20vbWVkaWFzL2No/YXJ0ZXItYXJtcy1t/YWctcHVnLWFuZC1w/aXQtYnVsbC1jb21i/by0zNTctbWFnbnVt/OW1tLWx1Z2VyLTIy/aW4tYmxhY2stcGFz/c2l2YXRlLXJldm9s/dmVyLTUtcm91bmRz/LTE5NDE3MzQtMS5q/cGc",
+    "image_url": "https://imgs.search.brave.com/8LIrAPtjNenB9Fqo-A4p6AaQbKQp3yMg_Osvxncin7c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NDA2NzMzMmIxZDVm/YjM5NjExZDFhNDIv/NjdkYWM5NWJmYWY3/MGI4YWRjYzZkNDU0/X0Rlc2VydCUyMEVh/Z2xlLndlYnA",
     "description": "High-energy jacketed hollow point for hunting or defense.",
     "notes": ""
   },
