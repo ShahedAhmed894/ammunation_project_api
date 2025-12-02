@@ -1,5 +1,5 @@
-[
-  [
+{
+  "ammunition": [
     {
       "id": 1,
       "name": "RangeMaster 9mm FMJ",
@@ -19,8 +19,8 @@
     },
     {
       "id": 2,
-      "name": "DefensePro .45 ACP JHP",
-      "category": "Handgun Ammo",
+      "name": "Kar 98k",
+      "category": "Sniper Ammo",
       "caliber": ".45 ACP",
       "manufacturer": "Eastfield Ordnance",
       "price": 109600,
@@ -36,7 +36,7 @@
     },
     {
       "id": 3,
-      "name": "AR-15 Match Grade 5.56",
+      "name": "Scar L",
       "category": "Rifle Ammo",
       "caliber": ".223 Rem (5.56x45mm)",
       "manufacturer": "Valley Arms",
@@ -49,6 +49,57 @@
       "min_age": 21,
       "image_url": "https://imgs.search.brave.com/A8gDyxKaG1aYBhrBS2srkn9yH-Q8ZLOFlDoJC1lgUOc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cuYWlyc29mdGd1bmluZGlhLmNvbS9tZWRpYS8yMDI0LzA5LzIwMjQtMDktMjEtMTctNTgtMzktU0NBUkxBdXRvbWF0aWNBUkVsZWN0cmljR2VsQmxhc3RlclJpZmxlQXJteVBhdGNoQnlBaXJzb2Z0R3VuSW5kaWE0anBnLXdtYXJrLXdtYXJrLmpwZw",
       "description": "Standard full metal jacket for training and target shooting.",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "name": "Machine gun",
+      "category": "Rifle Ammo",
+      "caliber": ".308 Winchester",
+      "manufacturer": "GreenField Munitions",
+      "price": 260000,
+      "currency": "BDT",
+      "stock_quantity": 85,
+      "rounds_per_box": 20,
+      "weight_g_per_round": 11.5,
+      "license_required": true,
+      "min_age": 21,
+      "image_url": "https://images.unsplash.com/photo-1591123253780-af288771206f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1025",
+      "description": "Soft point hunting rounds with good expansion.",
+      "notes": "Not for indoor ranges."
+    },
+    {
+      "id": 5,
+      "name": "Ak 47",
+      "category": "Handgun Ammo",
+      "caliber": ".380 ACP",
+      "manufacturer": "Metro Ballistics",
+      "price": 25000,
+      "currency": "BDT",
+      "stock_quantity": 140,
+      "rounds_per_box": 50,
+      "weight_g_per_round": 9.5,
+      "license_required": true,
+      "min_age": 21,
+      "image_url": "https://imgs.search.brave.com/uX4XkRTVKCTmXm3O1iHRGBQl07ya6ngg7L4Uk81kbU8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5nZXR0eWltYWdlcy5jb20vaWQvMTgyNzE3NzczL3Bob3RvL2FrLTQ3LmpwZz9zPTYxMng2MTImdz0wJms9MjAmYz1iM1p0QWwwQVY4U1ZrY1l4WTgtUlpFRmRKUjVLZEVJVi0xaGFZYklS/Z1hNPQ",
+      "description": "Low-recoil FMJ for compact pistols and training.",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "name": "SIG Sauer P226",
+      "category": "Pistol Ammo",
+      "caliber": "7.62x39mm",
+      "manufacturer": "Eastern Arsenal",
+      "price": 180080,
+      "currency": "BDT",
+      "stock_quantity": 160,
+      "rounds_per_box": 30,
+      "weight_g_per_round": 16.0,
+      "license_required": true,
+      "min_age": 21,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/SIG_Sauer_P226_neu.jpg",
+      "description": "Reliable FMJ rounds for sport shooting.",
       "notes": ""
     },
     {
@@ -69,8 +120,42 @@
       "notes": "Often sold in larger bulk boxes."
     },
     {
+      "id": 8,
+      "name": "As 50",
+      "category": "Handgun Ammo",
+      "caliber": "10mm Auto",
+      "manufacturer": "Northbridge Ammunition",
+      "price": 1550,
+      "currency": "BDT",
+      "stock_quantity": 70,
+      "rounds_per_box": 50,
+      "weight_g_per_round": 16.5,
+      "license_required": true,
+      "min_age": 21,
+      "image_url": "https://imgs.search.brave.com/hohf6RfmW86p_eMLTrcmKxSoL1glntTzhoy3PZWhZ-I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4ucGl4YWJheS5jb20vcGhvdG8vMjAxNS8wOC8wMi8yMy8xMC9hY2N1cmFjeS1pbnRlcm5hdGlvbmFsLTg3MjE5MF8xMjgwLmpwZw",
+      "description": "Full power 10mm rounds for hard-hitting performance.",
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "name": "Swd m11a1",
+      "category": "Rifle Ammo",
+      "caliber": ".300 Blackout (subsonic)",
+      "manufacturer": "StealthWorks",
+      "price": 2200,
+      "currency": "BDT",
+      "stock_quantity": 40,
+      "rounds_per_box": 20,
+      "weight_g_per_round": 16.0,
+      "license_required": true,
+      "min_age": 21,
+      "image_url": "https://imgs.search.brave.com/LTtfLqYimPrAOEtwEbCc-2r3MPldkQ_1ygF_rjBggHg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4xMS5iaWdjb21tZXJjZS5jb20vcy1qZWthcG8vaW1hZ2VzL3N0ZW5jaWwvNTAweDY1OS9wcm9kdWN0cy81MDMzLzUxNzU1L0RTQzAyODY2X183MDQ3Ni4xNjkxODUyNzA5LkpQRz9jPTI",
+      "description": "Subsonic loads optimized for suppressed rifles.",
+      "notes": "Local regulations may apply."
+    },
+    {
       "id": 10,
-      "name": "12 Gauge Buckshot",
+      "name": "Glock 19",
       "category": "Shotgun Shell",
       "caliber": "12 Gauge",
       "manufacturer": "Northfield Shots",
@@ -84,58 +169,124 @@
       "image_url": "https://imgs.search.brave.com/JbS7D8s--YGckI4ZfyYRGWUYGMlA40YfJZqd9vbaRQ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxscGFwZXJzLmNvbS9pbWFnZXMvaGQvZ2xvY2stMTktcGljdHVyZXMtMjU2MC14LTE5MjAtY2UzeGNxd3MzOWNmbjZmYi5qcGc",
       "description": "Lead shot shells for clay target and small game.",
       "notes": "Check local lead shot restrictions."
+    },
+    {
+      "id": 11,
+      "name": "M16",
+      "category": "Shotgun Shell",
+      "caliber": "20 Gauge",
+      "manufacturer": "FieldWorks",
+      "price": 200,
+      "currency": "BDT",
+      "stock_quantity": 260,
+      "rounds_per_box": 25,
+      "weight_g_per_round": 26.0,
+      "license_required": true,
+      "min_age": 18,
+      "image_url": "https://imgs.search.brave.com/uxZyzKVKR-yGbiGGkxnQvPuzhyAHm-oEz-EPBtX1m-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4ucGl4YWJheS5jb20vcGhvdG8vMjAxOS8wOC8xMC8yMi81NS9tMTYtNDM5Nzg4OV82NDAucG5n",
+      "description": "Light-recoil shells for hunting and sport shooting.",
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "name": "Mp5",
+      "category": "Rifle Ammo",
+      "caliber": ".223 Rem",
+      "manufacturer": "Prairie Ballistics",
+      "price": 1350,
+      "currency": "BDT",
+      "stock_quantity": 90,
+      "rounds_per_box": 20,
+      "weight_g_per_round": 4.0,
+      "license_required": true,
+      "min_age": 21,
+      "image_url": "https://imgs.search.brave.com/2CMOyZ6AKnsPCl18XTZQr0JRfTV_kIDSrsaq6CEOKUY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5nZXR0eWltYWdlcy5jb20vaWQvMTI0MDA3OTIwL3Bob3RvL2EtYmxhY2stbWFjaGluZS1ndW4tb24tYS13aGl0ZS1iYWNrZ3JvdW5kLmpwZz9zPTYxMng2MTImdz0wJms9MjAmYz1SSlNsS2xSMFlqMzJnUU9BcnFsTm9KdEJPeEdkV21DQmVxZlNhc0ktU29RPQ",
+      "description": "Hollow point boat tail for varminting and precision shooting.",
+      "notes": ""
+    },
+    {
+      "id": 13,
+      "name": "Colt m4",
+      "category": "Handgun/Rifle Ammo",
+      "caliber": "5.7x28mm",
+      "manufacturer": "Vector Munitions",
+      "price": 2100,
+      "currency": "BDT",
+      "stock_quantity": 30,
+      "rounds_per_box": 50,
+      "weight_g_per_round": 3.9,
+      "license_required": true,
+      "min_age": 21,
+      "image_url": "https://imgs.search.brave.com/XCgKN4pTfHBEOqdtX7EKZ15bLv4tUZgtqIpoRKHPzr4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ndW4uZGVhbHMvY2RuLWNnaS9pbWFnZS93PTQwMCxoPTQwMCxmPWF1dG8vc2l0ZXMvZGVmYXVsdC9maWxlcy9JTUdfNTJCQkI4MjBBQkY0LTFfXzYyNDc1LmpwZw",
+      "description": "High-velocity small-caliber rounds for specialized platforms.",
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "name": "Vss",
+      "category": "Handgun Ammo",
+      "caliber": ".45 ACP (lead-free)",
+      "manufacturer": "EcoBallistics",
+      "price": 1850,
+      "currency": "BDT",
+      "stock_quantity": 55,
+      "rounds_per_box": 50,
+      "weight_g_per_round": 19.0,
+      "license_required": true,
+      "min_age": 21,
+      "image_url": "https://imgs.search.brave.com/bKsFAbjfIQmFJ_S09VUWrgl2PcbKO6I48pyPP0BJXac/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sYXNlcndhci51cy9pbWFnZXMvamNoLW9wdGltaXplL25nL2ltYWdlc19WU1MtVmludG9yZXotbGFzZXJ0YWctc25pcGVyLWd1bi1zaWRlMi53ZWJw",
+      "description": "Lead-free training rounds for indoor ranges with environmental controls.",
+      "notes": "Preferred where lead restrictions apply."
     }
   ],
-  {
-    "most_popular_categories": [
-      {
-        "id": 1,
-        "name": "RangeMaster 9mm FMJ",
-        "category": "Handgun Ammo",
-        "caliber": "9x19mm",
-        "price": 121000,
-        "currency": "BDT",
-        "stock_quantity": 120,
-        "rounds_per_box": 50,
-        "image_url": "https://imgs.search.brave.com/oVCAi5C-fPoKF2LEVM2UcsCUHY7vCsvzqbHMdOEgxRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4ucGl4YWJheS5jb20vcGhvdG8vMjAxOC8xMi8xOC8xMy8xMS9iZXJldHRhLTM4ODIzMzhfNjQwLmpwZw",
-        "description": "Full metal jacket rounds for range practice and training."
-      },
-      {
-        "id": 3,
-        "name": "AR-15 Match Grade 5.56",
-        "category": "Rifle Ammo",
-        "caliber": ".223 Rem (5.56x45mm)",
-        "price": 475000,
-        "currency": "BDT",
-        "stock_quantity": 200,
-        "rounds_per_box": 30,
-        "image_url": "https://imgs.search.brave.com/A8gDyxKaG1aYBhrBS2srkn9yH-Q8ZLOFlDoJC1lgUOc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cuYWlyc29mdGd1bmluZGlhLmNvbS9tZWRpYS8yMDI0LzA5LzIwMjQtMDktMjEtMTctNTgtMzktU0NBUkxBdXRvbWF0aWNBUkVsZWN0cmljR2VsQmxhc3RlclJpZmxlQXJteVBhdGNoQnlBaXJzb2Z0R3VuSW5kaWE0anBnLXdtYXJrLXdtYXJrLmpwZw",
-        "description": "Standard full metal jacket for training and target shooting."
-      },
-      {
-        "id": 7,
-        "name": "Plinker .22 LR Std",
-        "category": "Rimfire Ammo",
-        "caliber": ".22 LR",
-        "price": 420,
-        "currency": "BDT",
-        "stock_quantity": 300,
-        "rounds_per_box": 50,
-        "image_url": "https://imgs.search.brave.com/SMKGDdKoVP86w2AlX-_dhtoKjPtBZ0imHLbVa_yD3wY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cuYW1lcmljYW5maXJlYXJtcy5vcmcvX25leHQvaW1hZ2UvP3VybD1odHRwczovL2Ntcy5hbWVyaWNhbmZpcmVhcm1zLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wMi9EYW5pZWwtRGVmZW5zZS1QQ0MtQW1lcmljYW4tRmlyZWFybXMtMS53ZWJwJnc9Mzg0MCZxPTc1",
-        "description": "Economy .22 Long Rifle for practice and plinking."
-      },
-      {
-        "id": 10,
-        "name": "12 Gauge Buckshot",
-        "category": "Shotgun Shell",
-        "caliber": "12 Gauge",
-        "price": 220,
-        "currency": "BDT",
-        "stock_quantity": 400,
-        "rounds_per_box": 25,
-        "image_url": "https://imgs.search.brave.com/JbS7D8s--YGckI4ZfyYRGWUYGMlA40YfJZqd9vbaRQ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxscGFwZXJzLmNvbS9pbWFnZXMvaGQvZ2xvY2stMTktcGljdHVyZXMtMjU2MC14LTE5MjAtY2UzeGNxd3MzOWNmbjZmYi5qcGc",
-        "description": "Lead shot shells for clay target and small game."
-      }
-    ]
-  }
-]
+  "most_popular_categories": [
+    {
+      "id": 1,
+      "name": "RangeMaster 9mm FMJ",
+      "category": "Handgun Ammo",
+      "caliber": "9x19mm",
+      "price": 121000,
+      "currency": "BDT",
+      "stock_quantity": 120,
+      "rounds_per_box": 50,
+      "image_url": "https://imgs.search.brave.com/oVCAi5C-fPoKF2LEVM2UcsCUHY7vCsvzqbHMdOEgxRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4ucGl4YWJheS5jb20vcGhvdG8vMjAxOC8xMi8xOC8xMy8xMS9iZXJldHRhLTM4ODIzMzhfNjQwLmpwZw",
+      "description": "Full metal jacket rounds for range practice and training."
+    },
+    {
+      "id": 3,
+      "name": "Scar L",
+      "category": "Rifle Ammo",
+      "caliber": ".223 Rem (5.56x45mm)",
+      "price": 475000,
+      "currency": "BDT",
+      "stock_quantity": 200,
+      "rounds_per_box": 30,
+      "image_url": "https://imgs.search.brave.com/A8gDyxKaG1aYBhrBS2srkn9yH-Q8ZLOFlDoJC1lgUOc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cuYWlyc29mdGd1bmluZGlhLmNvbS9tZWRpYS8yMDI0LzA5LzIwMjQtMDktMjEtMTctNTgtMzktU0NBUkxBdXRvbWF0aWNBUkVsZWN0cmljR2VsQmxhc3RlclJpZmxlQXJteVBhdGNoQnlBaXJzb2Z0R3VuSW5kaWE0anBnLXdtYXJrLXdtYXJrLmpwZw",
+      "description": "Standard full metal jacket for training and target shooting."
+    },
+    {
+      "id": 7,
+      "name": "Plinker .22 LR Std",
+      "category": "Rimfire Ammo",
+      "caliber": ".22 LR",
+      "price": 420,
+      "currency": "BDT",
+      "stock_quantity": 300,
+      "rounds_per_box": 50,
+      "image_url": "https://imgs.search.brave.com/SMKGDdKoVP86w2AlX-_dhtoKjPtBZ0imHLbVa_yD3wY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cuYW1lcmljYW5maXJlYXJtcy5vcmcvX25leHQvaW1hZ2UvP3VybD1odHRwczovL2Ntcy5hbWVyaWNhbmZpcmVhcm1zLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wMi9EYW5pZWwtRGVmZW5zZS1QQ0MtQW1lcmljYW4tRmlyZWFybXMtMS53ZWJwJnc9Mzg0MCZxPTc1",
+      "description": "Economy .22 Long Rifle for practice and plinking."
+    },
+    {
+      "id": 10,
+      "name": "Glock 19",
+      "category": "Shotgun Shell",
+      "caliber": "12 Gauge",
+      "price": 220,
+      "currency": "BDT",
+      "stock_quantity": 400,
+      "rounds_per_box": 25,
+      "image_url": "https://imgs.search.brave.com/JbS7D8s--YGckI4ZfyYRGWUYGMlA40YfJZqd9vbaRQ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxscGFwZXJzLmNvbS9pbWFnZXMvaGQvZ2xvY2stMTktcGljdHVyZXMtMjU2MC14LTE5MjAtY2UzeGNxd3MzOWNmbjZmYi5qcGc",
+      "description": "Lead shot shells for clay target and small game."
+    }
+  ]
+}
