@@ -148,7 +148,7 @@
     "weight_g_per_round": 16.5,
     "license_required": true,
     "min_age": 21,
-    "image_url": "",
+    "image_url": "https://imgs.search.brave.com/hohf6RfmW86p_eMLTrcmKxSoL1glntTzhoy3PZWhZ-I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNS8w/OC8wMi8yMy8xMC9h/Y2N1cmFjeS1pbnRl/cm5hdGlvbmFsLTg3/MjE5MF8xMjgwLmpw/Zw",
     "description": "Full power 10mm rounds for hard-hitting performance.",
     "notes": ""
   },
@@ -165,7 +165,7 @@
     "weight_g_per_round": 16.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "",
+    "image_url": "https://imgs.search.brave.com/LTtfLqYimPrAOEtwEbCc-2r3MPldkQ_1ygF_rjBggHg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy1qZWth/cG8vaW1hZ2VzL3N0/ZW5jaWwvNTAweDY1/OS9wcm9kdWN0cy81/MDMzLzUxNzU1L0RT/QzAyODY2X183MDQ3/Ni4xNjkxODUyNzA5/LkpQRz9jPTI",
     "description": "Subsonic loads optimized for suppressed rifles.",
     "notes": "Local regulations may apply."
   },
@@ -182,7 +182,7 @@
     "weight_g_per_round": 32.0,
     "license_required": true,
     "min_age": 18,
-    "image_url": "",
+    "image_url": "https://imgs.search.brave.com/JbS7D8s--YGckI4ZfyYRGWUYGMlA40YfJZqd9vbaRQ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZ2xv/Y2stMTktcGljdHVy/ZXMtMjU2MC14LTE5/MjAtY2UzeGNxd3Mz/OWNmbjZmYi5qcGc",
     "description": "Lead shot shells for clay target and small game.",
     "notes": "Check local lead shot restrictions."
   },
@@ -199,7 +199,7 @@
     "weight_g_per_round": 26.0,
     "license_required": true,
     "min_age": 18,
-    "image_url": "",
+    "image_url": "https://imgs.search.brave.com/uxZyzKVKR-yGbiGGkxnQvPuzhyAHm-oEz-EPBtX1m-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxOS8w/OC8xMC8yMi81NS9t/MTYtNDM5Nzg4OV82/NDAucG5n",
     "description": "Light-recoil shells for hunting and sport shooting.",
     "notes": ""
   },
@@ -216,7 +216,7 @@
     "weight_g_per_round": 4.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "",
+    "image_url": "https://imgs.search.brave.com/2CMOyZ6AKnsPCl18XTZQr0JRfTV_kIDSrsaq6CEOKUY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI0/MDA3OTIwL3Bob3Rv/L2EtYmxhY2stbWFj/aGluZS1ndW4tb24t/YS13aGl0ZS1iYWNr/Z3JvdW5kLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1SSlNs/S2xSMFlqMzJnUU9B/cnFsTm9KdEJPeEdk/V21DQmVxZlNhc0kt/U29RPQ",
     "description": "Hollow point boat tail for varminting and precision shooting.",
     "notes": ""
   },
@@ -233,7 +233,7 @@
     "weight_g_per_round": 3.9,
     "license_required": true,
     "min_age": 21,
-    "image_url": "",
+    "image_url": "https://imgs.search.brave.com/XCgKN4pTfHBEOqdtX7EKZ15bLv4tUZgtqIpoRKHPzr4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ndW4u/ZGVhbHMvY2RuLWNn/aS9pbWFnZS93PTQw/MCxoPTQwMCxmPWF1/dG8vc2l0ZXMvZGVm/YXVsdC9maWxlcy9J/TUdfNTJCQkI4MjBB/QkY0LTFfXzYyNDc1/LmpwZw",
     "description": "High-velocity small-caliber rounds for specialized platforms.",
     "notes": ""
   },
@@ -250,7 +250,7 @@
     "weight_g_per_round": 19.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "",
+    "image_url": "https://imgs.search.brave.com/bKsFAbjfIQmFJ_S09VUWrgl2PcbKO6I48pyPP0BJXac/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sYXNl/cndhci51cy9pbWFn/ZXMvamNoLW9wdGlt/aXplL25nL2ltYWdl/c19WU1MtVmludG9y/ZXotbGFzZXJ0YWct/c25pcGVyLWd1bi1z/aWRlMi53ZWJw",
     "description": "Lead-free training rounds for indoor ranges with environmental controls.",
     "notes": "Preferred where lead restrictions apply."
   }
