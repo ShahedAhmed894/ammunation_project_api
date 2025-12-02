@@ -12,7 +12,7 @@
     "weight_g_per_round": 12.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/oVCAi5C-fPoKF2LEVM2UcsCUHY7vCsvzqbHMdOEgxRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxOC8x/Mi8xOC8xMy8xMS9i/ZXJldHRhLTM4ODIz/MzhfNjQwLmpwZw",
+    "image_url": "https://imgs.search.brave.com/oVCAi5C-fPoKF2LEVM2UcsCUHY7vCsvzqbHMdOEgxRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4ucGl4YWJheS5jb20vcGhvdG8vMjAxOC8xMi8xOC8xMy8xMS9iZXJldHRhLTM4ODIzMzhfNjQwLmpwZw",
     "description": "Full metal jacket rounds for range practice and training.",
     "notes": ""
   },
@@ -29,7 +29,7 @@
     "weight_g_per_round": 20.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/OM0u2Njov1vWuMLFdhg4ZlxudXd8JNOWTeGQVAk6d7Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90b3Bw/bmcuY29tL3VwbG9h/ZHMvcHJldmlldy9r/YXI5OGstbW9kZWwt/Y29kMi1maXJlYXJt/LTExNTYzMDM5NjQz/NmVpc3F5YmdvNC5w/bmc",
+    "image_url": "https://imgs.search.brave.com/OM0u2Njov1vWuMLFdhg4ZlxudXd8JNOWTeGQVAk6d7Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90b3BwbmcuY29tL3VwbG9hZHMvcHJldmlldy9rYXI5OGstbW9kZWwtY29kMi1maXJlYXJtLTExNTYzMDM5NjQzNmVpc3F5YmdvNC5wbm",
     "description": "Jacketed hollow point for self-defense use.",
     "notes": "Restricted sale: ID and permit required."
   },
@@ -46,7 +46,7 @@
     "weight_g_per_round": 3.6,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/A8gDyxKaG1aYBhrBS2srkn9yH-Q8ZLOFlDoJC1lgUOc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YWlyc29mdGd1bmlu/ZGlhLmNvbS9tZWRp/YS8yMDI0LzA5LzIw/MjQtMDktMjEtMTct/NTgtMzktU0NBUkxB/dXRvbWF0aWNBUkVs/ZWN0cmljR2VsQmxh/c3RlclJpZmxlQXJt/eVBhdGNoQnlBaXJz/b2Z0R3VuSW5kaWE0/anBnLXdtYXJrLXdt/YXJrLmpwZw",
+    "image_url": "https://imgs.search.brave.com/A8gDyxKaG1aYBhrBS2srkn9yH-Q8ZLOFlDoJC1lgUOc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cuYWlyc29mdGd1bmluZGlhLmNvbS9tZWRpYS8yMDI0LzA5LzIwMjQtMDktMjEtMTctNTgtMzktU0NBUkxBdXRvbWF0aWNBUkVsZWN0cmljR2VsQmxhc3RlclJpZmxlQXJteVBhdGNoQnlBaXJzb2Z0R3VuSW5kaWE0anBnLXdtYXJrLXdtYXJrLmpwZw",
     "description": "Standard full metal jacket for training and target shooting.",
     "notes": ""
   },
@@ -80,7 +80,7 @@
     "weight_g_per_round": 9.5,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/uX4XkRTVKCTmXm3O1iHRGBQl07ya6ngg7L4Uk81kbU8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTgy/NzE3NzczL3Bob3Rv/L2FrLTQ3LmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1iM1p0/QWwwQXY4U1ZrY1l4/WTgtUlpFRmRKUjVL/ZEVJVi0xaGFZYklS/Z1hNPQ",
+    "image_url": "https://imgs.search.brave.com/uX4XkRTVKCTmXm3O1iHRGBQl07ya6ngg7L4Uk81kbU8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5nZXR0eWltYWdlcy5jb20vaWQvMTgyNzE3NzczL3Bob3RvL2FrLTQ3LmpwZz9zPTYxMng2MTImdz0wJms9MjAmYz1iM1p0QWwwQVY4U1ZrY1l4WTgtUlpFRmRKUjVLZEVJVi0xaGFZYklS/Z1hNPQ",
     "description": "Low-recoil FMJ for compact pistols and training.",
     "notes": ""
   },
@@ -114,7 +114,7 @@
     "weight_g_per_round": 2.6,
     "license_required": false,
     "min_age": 18,
-    "image_url": "https://imgs.search.brave.com/SMKGDdKoVP86w2AlX-_dhtoKjPtBZ0imHLbVa_yD3wY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YW1lcmljYW5maXJl/YXJtcy5vcmcvX25l/eHQvaW1hZ2UvP3Vy/bD1odHRwczovL2Nt/cy5hbWVyaWNhbmZp/cmVhcm1zLm9yZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8w/Mi9EYW5pZWwtRGVm/ZW5zZS1QQ0MtQW1l/cmljYW4tRmlyZWFy/bXMtMS53ZWJwJnc9/Mzg0MCZxPTc1",
+    "image_url": "https://imgs.search.brave.com/SMKGDdKoVP86w2AlX-_dhtoKjPtBZ0imHLbVa_yD3wY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cuYW1lcmljYW5maXJlYXJtcy5vcmcvX25leHQvaW1hZ2UvP3VybD1odHRwczovL2Ntcy5hbWVyaWNhbmZpcmVhcm1zLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wMi9EYW5pZWwtRGVmZW5zZS1QQ0MtQW1lcmljYW4tRmlyZWFybXMtMS53ZWJwJnc9Mzg0MCZxPTc1",
     "description": "Economy .22 Long Rifle for practice and plinking.",
     "notes": "Often sold in larger bulk boxes."
   },
@@ -131,7 +131,7 @@
     "weight_g_per_round": 16.5,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/hohf6RfmW86p_eMLTrcmKxSoL1glntTzhoy3PZWhZ-I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNS8w/OC8wMi8yMy8xMC9h/Y2N1cmFjeS1pbnRl/cm5hdGlvbmFsLTg3/MjE5MF8xMjgwLmpw/Zw",
+    "image_url": "https://imgs.search.brave.com/hohf6RfmW86p_eMLTrcmKxSoL1glntTzhoy3PZWhZ-I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4ucGl4YWJheS5jb20vcGhvdG8vMjAxNS8wOC8wMi8yMy8xMC9hY2N1cmFjeS1pbnRlcm5hdGlvbmFsLTg3MjE5MF8xMjgwLmpwZw",
     "description": "Full power 10mm rounds for hard-hitting performance.",
     "notes": ""
   },
@@ -148,7 +148,7 @@
     "weight_g_per_round": 16.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/LTtfLqYimPrAOEtwEbCc-2r3MPldkQ_1ygF_rjBggHg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy1qZWth/cG8vaW1hZ2VzL3N0/ZW5jaWwvNTAweDY1/OS9wcm9kdWN0cy81/MDMzLzUxNzU1L0RT/QzAyODY2X183MDQ3/Ni4xNjkxODUyNzA5/LkpQRz9jPTI",
+    "image_url": "https://imgs.search.brave.com/LTtfLqYimPrAOEtwEbCc-2r3MPldkQ_1ygF_rjBggHg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4xMS5iaWdjb21tZXJjZS5jb20vcy1qZWthcG8vaW1hZ2VzL3N0ZW5jaWwvNTAweDY1OS9wcm9kdWN0cy81MDMzLzUxNzU1L0RTQzAyODY2X183MDQ3Ni4xNjkxODUyNzA5LkpQRz9jPTI",
     "description": "Subsonic loads optimized for suppressed rifles.",
     "notes": "Local regulations may apply."
   },
@@ -165,7 +165,7 @@
     "weight_g_per_round": 32.0,
     "license_required": true,
     "min_age": 18,
-    "image_url": "https://imgs.search.brave.com/JbS7D8s--YGckI4ZfyYRGWUYGMlA40YfJZqd9vbaRQ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZ2xv/Y2stMTktcGljdHVy/ZXMtMjU2MC14LTE5/MjAtY2UzeGNxd3Mz/OWNmbjZmYi5qcGc",
+    "image_url": "https://imgs.search.brave.com/JbS7D8s--YGckI4ZfyYRGWUYGMlA40YfJZqd9vbaRQ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxscGFwZXJzLmNvbS9pbWFnZXMvaGQvZ2xvY2stMTktcGljdHVyZXMtMjU2MC14LTE5MjAtY2UzeGNxd3MzOWNmbjZmYi5qcGc",
     "description": "Lead shot shells for clay target and small game.",
     "notes": "Check local lead shot restrictions."
   },
@@ -182,7 +182,7 @@
     "weight_g_per_round": 26.0,
     "license_required": true,
     "min_age": 18,
-    "image_url": "https://imgs.search.brave.com/uxZyzKVKR-yGbiGGkxnQvPuzhyAHm-oEz-EPBtX1m-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxOS8w/OC8xMC8yMi81NS9t/MTYtNDM5Nzg4OV82/NDAucG5n",
+    "image_url": "https://imgs.search.brave.com/uxZyzKVKR-yGbiGGkxnQvPuzhyAHm-oEz-EPBtX1m-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4ucGl4YWJheS5jb20vcGhvdG8vMjAxOS8wOC8xMC8yMi81NS9tMTYtNDM5Nzg4OV82NDAucG5n",
     "description": "Light-recoil shells for hunting and sport shooting.",
     "notes": ""
   },
@@ -199,7 +199,7 @@
     "weight_g_per_round": 4.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/2CMOyZ6AKnsPCl18XTZQr0JRfTV_kIDSrsaq6CEOKUY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI0/MDA3OTIwL3Bob3Rv/L2EtYmxhY2stbWFj/aGluZS1ndW4tb24t/YS13aGl0ZS1iYWNr/Z3JvdW5kLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1SSlNs/S2xSMFlqMzJnUU9B/cnFsTm9KdEJPeEdk/V21DQmVxZlNhc0kt/U29RPQ",
+    "image_url": "https://imgs.search.brave.com/2CMOyZ6AKnsPCl18XTZQr0JRfTV_kIDSrsaq6CEOKUY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5nZXR0eWltYWdlcy5jb20vaWQvMTI0MDA3OTIwL3Bob3RvL2EtYmxhY2stbWFjaGluZS1ndW4tb24tYS13aGl0ZS1iYWNrZ3JvdW5kLmpwZz9zPTYxMng2MTImdz0wJms9MjAmYz1SSlNsS2xSMFlqMzJnUU9BcnFsTm9KdEJPeEdkV21DQmVxZlNhc0ktU29RPQ",
     "description": "Hollow point boat tail for varminting and precision shooting.",
     "notes": ""
   },
@@ -216,7 +216,7 @@
     "weight_g_per_round": 3.9,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/XCgKN4pTfHBEOqdtX7EKZ15bLv4tUZgtqIpoRKHPzr4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ndW4u/ZGVhbHMvY2RuLWNn/aS9pbWFnZS93PTQw/MCxoPTQwMCxmPWF1/dG8vc2l0ZXMvZGVm/YXVsdC9maWxlcy9J/TUdfNTJCQkI4MjBB/QkY0LTFfXzYyNDc1/LmpwZw",
+    "image_url": "https://imgs.search.brave.com/XCgKN4pTfHBEOqdtX7EKZ15bLv4tUZgtqIpoRKHPzr4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ndW4uZGVhbHMvY2RuLWNnaS9pbWFnZS93PTQwMCxoPTQwMCxmPWF1dG8vc2l0ZXMvZGVmYXVsdC9maWxlcy9JTUdfNTJCQkI4MjBBQkY0LTFfXzYyNDc1LmpwZw",
     "description": "High-velocity small-caliber rounds for specialized platforms.",
     "notes": ""
   },
@@ -233,8 +233,58 @@
     "weight_g_per_round": 19.0,
     "license_required": true,
     "min_age": 21,
-    "image_url": "https://imgs.search.brave.com/bKsFAbjfIQmFJ_S09VUWrgl2PcbKO6I48pyPP0BJXac/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sYXNl/cndhci51cy9pbWFn/ZXMvamNoLW9wdGlt/aXplL25nL2ltYWdl/c19WU1MtVmludG9y/ZXotbGFzZXJ0YWct/c25pcGVyLWd1bi1z/aWRlMi53ZWJw",
+    "image_url": "https://imgs.search.brave.com/bKsFAbjfIQmFJ_S09VUWrgl2PcbKO6I48pyPP0BJXac/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sYXNlcn dhci51cy9pbWFnZXMvamNoLW9wdGltaXplL25nL2ltYWdlc19WU1MtVmludG9yZXotbGFzZXJ0YWctc25pcGVyLWd1bi1zaWRlMi53ZWJw",
     "description": "Lead-free training rounds for indoor ranges with environmental controls.",
     "notes": "Preferred where lead restrictions apply."
+  }
+],
+"most_popular_categories": [
+  {
+    "id": 1,
+    "name": "RangeMaster 9mm FMJ",
+    "category": "Handgun Ammo",
+    "caliber": "9x19mm",
+    "price": 121000,
+    "currency": "BDT",
+    "stock_quantity": 120,
+    "rounds_per_box": 50,
+    "image_url": "https://imgs.search.brave.com/oVCAi5C-fPoKF2LEVM2UcsCUHY7vCsvzqbHMdOEgxRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4ucGl4YWJheS5jb20vcGhvdG8vMjAxOC8xMi8xOC8xMy8xMS9iZXJldHRhLTM4ODIzMzhfNjQwLmpwZw",
+    "description": "Full metal jacket rounds for range practice and training."
+  },
+  {
+    "id": 3,
+    "name": "Scar L",
+    "category": "Rifle Ammo",
+    "caliber": ".223 Rem (5.56x45mm)",
+    "price": 475000,
+    "currency": "BDT",
+    "stock_quantity": 200,
+    "rounds_per_box": 30,
+    "image_url": "https://imgs.search.brave.com/A8gDyxKaG1aYBhrBS2srkn9yH-Q8ZLOFlDoJC1lgUOc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cuYWlyc29mdGd1bmluZGlhLmNvbS9tZWRpYS8yMDI0LzA5LzIwMjQtMDktMjEtMTctNTgtMzktU0NBUkxBdXRvbWF0aWNBUkVsZWN0cmljR2VsQmxhc3RlclJpZmxlQXJteVBhdGNoQnlBaXJzb2Z0R3VuSW5kaWE0anBnLXdtYXJrLXdtYXJrLmpwZw",
+    "description": "Standard full metal jacket for training and target shooting."
+  },
+  {
+    "id": 7,
+    "name": "Plinker .22 LR Std",
+    "category": "Rimfire Ammo",
+    "caliber": ".22 LR",
+    "price": 420,
+    "currency": "BDT",
+    "stock_quantity": 300,
+    "rounds_per_box": 50,
+    "image_url": "https://imgs.search.brave.com/SMKGDdKoVP86w2AlX-_dhtoKjPtBZ0imHLbVa_yD3wY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cuYW1lcmljYW5maXJlYXJtcy5vcmcvX25leHQvaW1hZ2UvP3VybD1odHRwczovL2Ntcy5hbWVyaWNhbmZpcmVhcm1zLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wMi9EYW5pZWwtRGVmZW5zZS1QQ0MtQW1lcmljYW4tRmlyZWFybXMtMS53ZWJwJnc9Mzg0MCZxPTc1",
+    "description": "Economy .22 Long Rifle for practice and plinking."
+  },
+  {
+    "id": 10,
+    "name": "Glock 19",
+    "category": "Shotgun Shell",
+    "caliber": "12 Gauge",
+    "price": 220,
+    "currency": "BDT",
+    "stock_quantity": 400,
+    "rounds_per_box": 25,
+    "image_url": "https://imgs.search.brave.com/JbS7D8s--YGckI4ZfyYRGWUYGMlA40YfJZqd9vbaRQ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxscGFwZXJzLmNvbS9pbWFnZXMvaGQvZ2xvY2stMTktcGljdHVyZXMtMjU2MC14LTE5MjAtY2UzeGNxd3MzOWNmbjZmYi5qcGc",
+    "description": "Lead shot shells for clay target and small game."
   }
 ]
