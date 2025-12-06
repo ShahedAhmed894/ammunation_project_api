@@ -13,7 +13,7 @@
       "weight_g_per_round": 12.0,
       "license_required": true,
       "min_age": 21,
-      "image_url": "https://github.com/ShahedAhmed894/ammunation_project_api/blob/main/9mm-pistol-bullets-and-handgun.webp?raw=true",
+      "image_url": "https://raw.githubusercontent.com/ShahedAhmed894/ammunation_project_api/refs/heads/main/9mm-pistol-bullets-and-handgun.webp",
       "description": "Full metal jacket rounds for range practice and training.",
       "notes": ""
     },
